@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "server",
+			"path": "..\\server"
+		},
+		{
+			"name": "build",
+			"path": "."
+		},
+		{
+			"name": "src",
+			"path": "..\\src"
+		}
+	]
+}
